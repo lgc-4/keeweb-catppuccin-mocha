@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "catppuccin-mocha",
+  "description": "Catppuccin Mocha",
+  "author": {
+    "name": "lgc",
+    "email": "me@lgc.sh",
+    "url": "https://lgc.sh"
+  },
+  "resources": {
+    "css": true
+  },
+  "license": "MIT",
+  "url": "https://keeweb-catppuccin.lgc.sh",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0yHW5V47AHIYm9I2ix+GGKr1ATe/YDgI23uU1rZFT/udVqoQknOtFUXUdwOFTIwxra3ptieqcSzx4JNbudkOGjRet79Jha0Otjw3m8Cc+nk79ZEdB4841uJo4BpNwtVBb+A9kNrXaoMlKYihYQ8bOIEAvtCUFClnp2qN3bw5uAprS9sbNtJXwmYNqTVw4wKnZl8/wVqgFT7wJLRHSV/u90eYHXbF/PJPN+r/ddAFzSbads9a6XPGpdIPkRrRWc7yFPs62ARlphVb3gSJcx92a7NzrE3lDb8fi7rR9O1bEZ58EPllk6Pads9VhzzMQkYFoet0Ze0VGsB9BIOxj5Ki+QIDAQAB",
+  "theme": {
+    "name": "catppuccin-mocha",
+    "title": "Cappuccin Mocha"
+  }
+}
